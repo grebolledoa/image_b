@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_b (0.0.1):
+    - Flutter
+    - OpenCV2
+  - OpenCV2 (4.1.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_b (from `.symlinks/plugins/image_b/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OpenCV2
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_b:
+    :path: ".symlinks/plugins/image_b/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  image_b: b8cf6cd038c71217f87d563a9777f2203a76fa63
+  OpenCV2: 3ac0512dabaddda936f112507f9095697d392551
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.8.4
